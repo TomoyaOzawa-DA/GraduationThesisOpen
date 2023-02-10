@@ -1,7 +1,7 @@
 # GraduationThesisOpen
 
 ## description
-This repository has R codes for my graduation thesis. I cannot share raw data used in the thesis. Acutually results in the thesis are computed by Matlab.
+This repository has R codes for our graduation thesis. I cannot share raw data used in the thesis. Acutually results in the thesis are computed by Matlab.
 
 ## codes
 
